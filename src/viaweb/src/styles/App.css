@@ -1,0 +1,99 @@
+
+.header {
+    position: relative;
+    background-image: url('fondo2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.header h1 {
+  font-size: 3.5em;
+    font-family:  'Pacifico', cursive;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); 
+    
+}
+.header h3 {
+  
+  font-family:'Pacifico', cursive;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); 
+  
+}
+
+
+.header p {
+    font-size: 1.5em;
+}
+
+.menu-container {
+  margin-top: 10px; 
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2em;
+  margin: 0 20px;
+}
+
+.menu a:hover {
+  color: #ffcc00;
+}
+
+.separator {
+  width: 50%;
+  height: 1px;
+  background-color: #fff;
+  margin: 10px auto;
+}
+
+.profile-image {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-image img {
+    color: #fff;
+    max-width: 100px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+}
+
+.destinations {
+    background-color: #808185;
+    padding: 20px;
+    text-align: center;
+}
+
+.destination,
+.travel-item {
+    display: inline-block;
+    width: 250px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.destination img,
+.travel-item img {
+    max-width: 80px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}

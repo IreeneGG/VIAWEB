@@ -1,0 +1,9 @@
+microservicio-viajes@1.0.0 C:\Users\irene\web\microservicio-viajes
++-- axios@1.6.2
++-- cors@2.8.5
++-- express@4.18.2
++-- http-proxy-middleware@2.0.6
++-- mongoose@8.0.1
++-- swagger-jsdoc@6.2.8
+`-- swagger-ui-express@5.0.0
+

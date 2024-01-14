@@ -1,0 +1,15 @@
+
+.destinations-container {
+    background-color: #B6C8D5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .destinations-title {
+    font-family:  'Pacifico', cursive;
+    font-size: 2.0em;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
